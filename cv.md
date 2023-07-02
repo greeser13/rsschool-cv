@@ -1,5 +1,5 @@
 # Sergey Grigorev
-![Photo](./img/photo.jpg)
+![Photo](https://github.com/greeser13/rsschool-cv/blob/gh-pages/photo.jpg)
 
 ---
 ## Contacts:
@@ -7,6 +7,7 @@
 - E-mail: greeser13kz@gmail.com
 - GitHub: [greeser13](https://github.com/greeser13)
 - Discord: greeser13#7496
+
 ---
 ## About Me:
 
