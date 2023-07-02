@@ -1,5 +1,5 @@
 # Sergey Grigorev
-![Photo](https://github.com/greeser13/rsschool-cv/blob/gh-pages/photo.jpg)
+![Photo](./img/photo.jpg)
 
 ---
 ## Contacts:
